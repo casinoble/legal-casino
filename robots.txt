@@ -1,0 +1,7 @@
+User-agent: *
+                  
+Allow: /          
+
+
+Host: https://casinoble.github.io/legal-casino/
+Sitemap: https://casinoble.github.io/legal-casino/sitemap.xml
